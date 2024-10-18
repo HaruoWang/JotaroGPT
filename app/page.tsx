@@ -130,7 +130,7 @@ export default function Chat() {
             required
             rows={1}
             autoFocus
-            placeholder="Send a message"
+            placeholder="看來GPT和白金之星是同類型的替身呢"
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={(e) => {
