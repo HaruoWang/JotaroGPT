@@ -23,11 +23,11 @@ Jotaro GPT是個以《JOJO的奇妙冒險：星塵鬥士》角色空條承太郎
 
 Jotaro GPT使用以下技術所打造：
 
-- [Next.js](https://nextjs.org/) – framework
-- [OpenAI Fine-tuning](https://openai.com/index/gpt-4o-fine-tuning/) - Fine-tuning
-- [Vercel AI SDK](https://sdk.vercel.ai/docs) – AI completions
-- [Vercel](https://vercel.com) – deployments
-- [TailwindCSS](https://tailwindcss.com/) – styles
+- [Next.js](https://nextjs.org/) – 框架
+- [OpenAI Fine-tuning](https://openai.com/index/gpt-4o-fine-tuning/) - 模型微調
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) – AI對話
+- [Vercel](https://vercel.com) – 部署
+- [TailwindCSS](https://tailwindcss.com/) – 介面
 
 ## Author
 
