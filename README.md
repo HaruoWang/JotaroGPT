@@ -1,6 +1,6 @@
 <a href="https://jotarogpt.vercel.app">
   <img alt="Jotaro GPT是個以《JOJO的奇妙冒險：星塵鬥士》角色空條承太郎口吻進行回覆的AI機器人。" src="https://raw.githubusercontent.com/HaruoWang/JotaroGPT/refs/heads/main/public/og.webp">
-  <h1>Jotaro GPT</h1>
+  <h1>[Jotaro GPT](https://jotarogpt.vercel.app)</h1>
 </a>
 
 <p>
@@ -35,4 +35,4 @@ Jotaro GPT使用以下技術所打造：
 
 ## License
 
-Licensed under the MIT license
+Licensed under the MIT license.
